@@ -1,7 +1,7 @@
 Perform security audit
     1. Default passwords
         - Changed default passwords Advanced > Primary Network > 2.5 GHz > Password > 5.0 GHz > Password
-        ![Default_pass](../Home_Hardening/WIFI_Hardening_screenshots/WIFI_Hardening_%20Default_Pass.png)
+        ![Default_pass](Screenshots/WIFI_Hardening_ Default_Pass.png)
     2. Default SSID Advanced > Primary Network > 2.5 GHz > SSID > 5.0 GHz
         - Changed default SSID. Decided to keep SSId broadcast according to this article https://support.apple.com/en-us/102766. Disabling SSId will cause devices to constantly broadcast probe requests when away from home network, potentially exposing devices to malicious actors.
         - Kept wifi settings at WPA2 so non-WPA3 enabled devices can still connect

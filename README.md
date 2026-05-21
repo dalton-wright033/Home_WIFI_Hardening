@@ -6,7 +6,7 @@
     
 2. Default SSID 
     - Changed default SSID Advanced > Primary Network > 2.5 GHz > SSID > 5.0 GHz
-    - Decided to keep SSId broadcast according to this article https://support.apple.com/en-us/102766. 
+    - Decided to keep SSID broadcast according to this article https://support.apple.com/en-us/102766. 
     - Disabling SSId will cause devices to constantly broadcast probe requests when away from home network, potentially exposing devices to malicious actors.
     - Kept wifi settings at WPA2 (AES) so non-WPA3 enabled devices can still connect 
     ![Default_SSID_Pass](Screenshots/WIFI_Hardening_2.4_SSID_Pass.png)

@@ -20,10 +20,3 @@ Perform security audit
         - UPnP unsecure due to ability to quickly connect to network and considered authorized for network
         ![Disable_UPnP](Screenshots/WIFI_Hardening_UPnP.png)
 
-DNS Settings
-
-Device Monitoring
-
-Network Diagram
-
-Home security Write Up.
